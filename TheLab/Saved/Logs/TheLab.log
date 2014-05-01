@@ -140,4 +140,40 @@ Resource: (C:/Program Files/Unreal Engine/4.1/Engine/Content/Localization/Editor
 [2014.05.01-22.02.13:529][604]SourceControl:Error: Error svn: warning: W155007: 'D:\Documents\GitHub\LabMkII\TheLab' is not a working copy
 [2014.05.01-22.02.13:529][604]SourceControl:Error: Error You should check out a working copy into your project directory.
 [2014.05.01-22.02.13:530][604]SourceControl: Info Path: LabMkII
-[2014.05.01-22.02.13:530][604]SourceControl: Info URL: https://git
+[2014.05.01-22.02.13:530][604]SourceControl: Info URL: https://github.com/mossbros/LabMkII
+[2014.05.01-22.02.13:530][604]SourceControl: Info Relative URL: ^/
+[2014.05.01-22.02.13:530][604]SourceControl: Info Repository Root: https://github.com/mossbros/LabMkII
+[2014.05.01-22.02.13:530][604]SourceControl: Info Repository UUID: 27e3c1f9-5478-4b23-91b9-ce57b7db7bff
+[2014.05.01-22.02.13:530][604]SourceControl: Info Revision: 6
+[2014.05.01-22.02.13:530][604]SourceControl: Info Node Kind: directory
+[2014.05.01-22.02.13:530][604]SourceControl: Info Last Changed Author: axi5
+[2014.05.01-22.02.13:530][604]SourceControl: Info Last Changed Rev: 6
+[2014.05.01-22.02.13:530][604]SourceControl: Info Last Changed Date: 2014-05-01 22:11:37 +0100 (Thu, 01 May 2014)
+[2014.05.01-22.02.13:530][604]SourceControl:Error: Error Project is not part of an SVN working copy.
+[2014.05.01-22.02.48:247][425]LogSourceControl: Attempting 'svn info https://github.com/mossbros/LabMkII/TheLab --non-interactive --trust-server-cert --username Axi5 --password ********'
+[2014.05.01-22.02.50:748][563]SourceControl:Error: Error svn: warning: W170000: URL 'https://github.com/mossbros/LabMkII/TheLab' non-existent in revision 6
+[2014.05.01-22.02.50:748][563]SourceControl:Error: Error svn: E200009: Could not display info for all targets because some targets don't exist
+[2014.05.01-22.02.50:748][563]SourceControl:Error: Error Failed to connect to source control. Check your settings and connection then try again.
+[2014.05.01-22.03.40:443][232]SourceControl: Info Source control is disabled
+[2014.05.01-22.03.46:934][562]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2014.05.01-22.03.47:081][562]LogInstancedFoliage: Map Rebuilt - Update all BSP painted foliage!
+[2014.05.01-22.03.54:258][918]LogInstancedFoliage: Map Rebuilt - Update all BSP painted foliage!
+[2014.05.01-22.03.55:359][968]LogInstancedFoliage: Map Rebuilt - Update all BSP painted foliage!
+[2014.05.01-22.03.57:076][ 60]LogInstancedFoliage: Map Rebuilt - Update all BSP painted foliage!
+[2014.05.01-22.03.58:756][137]Cmd: SELECT NONE
+[2014.05.01-22.04.02:250][358]LogSavePackage: Save=63.073151ms
+[2014.05.01-22.04.02:250][358]LogSavePackage: Moving 'D:/Documents/GitHub/LabMkII/TheLab/Saved//Example_Map_Auto1ACEB7D4E43C95AC3CA0A8CB882C04736.tmp' to 'D:/Documents/GitHub/LabMkII/TheLab/Saved/Autosaves/Game/Maps/Example_Map_Auto1.umap'
+[2014.05.01-22.04.02:258][358]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Example_Map' took 0.171
+[2014.05.01-22.04.02:258][358]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.171
+[2014.05.01-22.04.02:364][366]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2014.05.01-22.04.13:186][935]LogInstancedFoliage: Map Rebuilt - Update all BSP painted foliage!
+[2014.05.01-22.04.16:243][ 61]LogInstancedFoliage: Map Rebuilt - Update all BSP painted foliage!
+[2014.05.01-22.04.16:940][ 93]LogInstancedFoliage: Map Rebuilt - Update all BSP painted foliage!
+[2014.05.01-22.04.17:038][ 98]Cmd: SELECT NONE
+[2014.05.01-22.04.19:839][283]LogSavePackage: Save=57.632740ms
+[2014.05.01-22.04.19:839][283]LogSavePackage: Moving 'D:/Documents/GitHub/LabMkII/TheLab/Saved//Example_Map84EFE19B4F588BACD3E71B918DB219BF.tmp' to 'D:/Documents/GitHub/LabMkII/TheLab/Content/Maps/Example_Map.umap'
+[2014.05.01-22.06.36:701][725]LogSourceControl: Attempting 'svn info abd34c7dd4da6bef526dd93f54e58a438e05ef42 --non-interactive --trust-server-cert --username Axi5 --password ********'
+[2014.05.01-22.06.36:784][730]SourceControl:Error: Error svn: E155007: 'C:\Program Files\Unreal Engine\4.1\Engine\Binaries\Win64\abd34c7dd4da6bef526dd93f54e58a438e05ef42' is not a working copy
+[2014.05.01-22.06.36:784][730]SourceControl:Error: Error Failed to connect to source control. Check your settings and connection then try again.
+[2014.05.01-22.06.55:868][755]LogSourceControl: Attempting 'svn info https://github.com/mossbros/LabMkII --non-interactive --trust-server-cert --username Axi5 --password ********'
+[2014.05.01-22.06.57:849][866]LogSourceControl: Attempting 'svn status --show-up
